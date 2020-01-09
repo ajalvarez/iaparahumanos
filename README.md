@@ -1,7 +1,7 @@
 ## Curso de Machine Learning e Inteligencia Artificial para Empresarios
 
 #### Preparado por:
-* PhD(c) [[Alejandro J. Alvarez-Socorro|http://google.com]]
+* PhD(c) Alejandro J. Alvarez-Socorro
 * PhD(c) Tomás Vera 
 
 ### Contenido del curso 
@@ -26,6 +26,7 @@
  
  
  
- Referencias
+### Referencias
+
 
 
