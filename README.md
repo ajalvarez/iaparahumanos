@@ -36,6 +36,8 @@
 ### Referencias
 
 [1] G. Luger, Artificial Intelligence: Structures and Strategies for Complex Problem Solving, Fifth Edition, 2005. 
+
 [2] H. Billhardt, A. Fernández Gil, S. Ossowski, Inteligencia Artificial: Ejercicios Resueltos, Editorial Universitaria Ramón Areces, 2015.
+
 [3] J. Kelleher and B. Tierney, Data Science, Essential Knowledge Series, MIT Press, 2018. 
 
