@@ -1,4 +1,6 @@
-## Curso de Machine Learning e Inteligencia Artificial para Empresarios
+## Curso Inteligencia Artíficial para Humanos
+
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
 
 #### Preparado por:
 * PhD(c) Alejandro J. Alvarez-Socorro
