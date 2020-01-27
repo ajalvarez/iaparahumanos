@@ -1,6 +1,6 @@
 ## Curso Inteligencia Artíficial para Humanos
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Zenta Improve Knowledge](https://raw.githubusercontent.com/ajalvarez/iaparahumanos/master/ZiK.png)
 
 #### Preparado por:
 * PhD(c) Alejandro J. Alvarez-Socorro
