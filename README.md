@@ -33,7 +33,6 @@
 3. Clustering o Agrupamiento: Descubriendo patrones en los datos con el algoritmo k-means. 
 4. Clasificación con Naïve Bayes: El poder de las probabilidades. 
 5. Redes Neuronales tipo perceptron. 
-6. Aprendizaje reforzado: Q-learning [[en progreso]]
  
 ### Referencias
 
