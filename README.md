@@ -24,7 +24,6 @@
 * Redes Neuronales tipo perceptrón. 
 * Aprendizaje reforzado.
   * Aplicaciones del aprendizaje reforzado. 
-  * Algoritmo de Q-learning.
  
 ### Laboratorios:
 
